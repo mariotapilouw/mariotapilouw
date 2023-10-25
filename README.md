@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mariotapilouw
-- 👀 I’m interested in C++/C# and Python software development. 
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @mariotapilouw, welcome to my repository
+- 👀 I’m doing large scale C++/C# software development, main application is for automatic optical inspection machines. 
+- 🌱 I'm currently learning Python and AI (newbie)
 - 💞️ I’m looking to collaborate on Hardware and System Integration 
-- 📫 How to reach me ...
+- 📫 mario.tapilouw@gmail.com
 
 <!---
 mariotapilouw/mariotapilouw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
